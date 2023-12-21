@@ -2,7 +2,7 @@
 
 **Database Name: ofbsphp**
 
-**Developed by Solomon Belay, Yihune Zewdie, Yeabsira Yonas, Yodit Tamirat, Yididiya Amare**
+**Developed by Kidus Arega Kebede**
 
 **Title:  Airline Management Reservation System**
 
